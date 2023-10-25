@@ -1,0 +1,11 @@
+C:\Users\user\Downloads\For-7-Ron\For-7-Ron\bin\Debug\netcoreapp2.1\For-7-Ron.deps.json
+C:\Users\user\Downloads\For-7-Ron\For-7-Ron\bin\Debug\netcoreapp2.1\For-7-Ron.runtimeconfig.json
+C:\Users\user\Downloads\For-7-Ron\For-7-Ron\bin\Debug\netcoreapp2.1\For-7-Ron.runtimeconfig.dev.json
+C:\Users\user\Downloads\For-7-Ron\For-7-Ron\bin\Debug\netcoreapp2.1\For-7-Ron.dll
+C:\Users\user\Downloads\For-7-Ron\For-7-Ron\bin\Debug\netcoreapp2.1\For-7-Ron.pdb
+C:\Users\user\Downloads\For-7-Ron\For-7-Ron\obj\Debug\netcoreapp2.1\For-7-Ron.csprojAssemblyReference.cache
+C:\Users\user\Downloads\For-7-Ron\For-7-Ron\obj\Debug\netcoreapp2.1\For-7-Ron.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\For-7-Ron\For-7-Ron\obj\Debug\netcoreapp2.1\For-7-Ron.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\For-7-Ron\For-7-Ron\obj\Debug\netcoreapp2.1\For-7-Ron.AssemblyInfo.cs
+C:\Users\user\Downloads\For-7-Ron\For-7-Ron\obj\Debug\netcoreapp2.1\For-7-Ron.dll
+C:\Users\user\Downloads\For-7-Ron\For-7-Ron\obj\Debug\netcoreapp2.1\For-7-Ron.pdb
